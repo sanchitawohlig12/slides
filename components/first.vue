@@ -16,7 +16,7 @@ export default {}
 <style scoped>
 .main {
   padding: 70px;
-  background-image: url('https://lh3.googleusercontent.com/proxy/mTqv1WuAL9YAzrMKd5-ruIBa8JBuZ8zhFch3gdltEAOY-8AhqisJVmxUpgpxmzXdGsMnhaCWa-ljkcPyPVPLG-7iJbHspp3xZcVX1dN4s802ujJR-X4Kpv4KCmLdt5Sot9XX9XdYRFUVh5RBtK0GAdmSjmn6LWvFmRERjSU');
+  background-image: url('https://lh3.googleusercontent.com/proxy/nlxhpkpZHL4Mg1mylp27uh14kFb3k2AJazDMBrYBTKW1fufcSI4sU-cCYGA8bbVGzkUkxI8aJcdbbs_0kWDlO2hM6A7352AaJ5N0FESS-UWF-ZMv51PevtwL29ZRgbo6yoXaFAt25_G0GNd1v6XXLlRtSuLwURzTOWq14Oc');
   background-repeat: no-repeat;
   background-size: cover;
 }
